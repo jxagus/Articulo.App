@@ -1,0 +1,16 @@
+C:\Users\agust\source\repos\TPFinalNivel2_AcostaRamonAgustin\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\agust\source\repos\TPFinalNivel2_AcostaRamonAgustin\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\agust\source\repos\TPFinalNivel2_AcostaRamonAgustin\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\agust\source\repos\TPFinalNivel2_AcostaRamonAgustin\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\agust\source\repos\TPFinalNivel2_AcostaRamonAgustin\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\agust\source\repos\TPFinalNivel2_AcostaRamonAgustin\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\agust\source\repos\TPFinalNivel2_AcostaRamonAgustin\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\agust\source\repos\TPFinalNivel2_AcostaRamonAgustin\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\agust\source\repos\TPFinalNivel2_AcostaRamonAgustin\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\agust\source\repos\TPFinalNivel2_AcostaRamonAgustin\Presentacion\obj\Debug\Presentacion.frmArticulo.resources
+C:\Users\agust\source\repos\TPFinalNivel2_AcostaRamonAgustin\Presentacion\bin\Debug\Dominio.dll
+C:\Users\agust\source\repos\TPFinalNivel2_AcostaRamonAgustin\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\agust\source\repos\TPFinalNivel2_AcostaRamonAgustin\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\agust\source\repos\TPFinalNivel2_AcostaRamonAgustin\Presentacion\bin\Debug\NegocioArticulo.dll
+C:\Users\agust\source\repos\TPFinalNivel2_AcostaRamonAgustin\Presentacion\bin\Debug\NegocioArticulo.pdb
+C:\Users\agust\source\repos\TPFinalNivel2_AcostaRamonAgustin\Presentacion\obj\Debug\Presentacion.frmAltaArticulo.resources
